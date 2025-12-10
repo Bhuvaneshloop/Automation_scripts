@@ -19,5 +19,8 @@ free -h >> $LOGFILE
 echo -e "\n3) Top 5 directories consuming the most space:" >> $LOGFILE
 sudo du -sh /home/bhuvaneshp3/* 2>/dev/null | sort -hr | head -n 5 >> $LOGFILE
 #
+
+echo  -e "\n4)CPU USAGE" >> $LOGFILE
+top -bn1 | head -n 5 >> $LOGFILE
 echo -e "\nReport saved to: $LOGFILE"
 
