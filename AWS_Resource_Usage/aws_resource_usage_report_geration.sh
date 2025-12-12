@@ -12,9 +12,17 @@
 #EC2
 #LAMBDA FUNCTION
 #
-set -x
 set -e
 set -o pipefail
+
+if [ ! -d ~/.aws ];
+then 
+	echo "AWS is not configured"
+fi
+if command -v aws &>/dev/null ;
+then 
+	echo "aws was not installed"
+fi
 
 mkdir -p Logs
 log="Logs/log-$(date +%F-%H-%M-%S).log"
