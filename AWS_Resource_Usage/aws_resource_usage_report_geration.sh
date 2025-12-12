@@ -37,4 +37,7 @@ aws ec2 describe-instances | jq -r '.Reservations[].Instances[].InstanceId' >> "
 echo -e "\n3)List of S3 in Use" >> "$log"
 aws s3 ls >> "$log"
 
+#Deleting the 7 days old logs
+find Logs/ -type f -mtime +7 -delete
+
 echo "Report saved to the LOG"
