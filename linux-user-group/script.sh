@@ -32,4 +32,9 @@ else
 	useradd -m -g "$group" "$user"
 	echo "$user added to the group $group sucessfully"
 fi
+HOME="home/&user"
+if [ -d  $HOME ];then
+	chmod 750 "$HOME"
+	chown "$user":"$group" "$HOME"
+
 
