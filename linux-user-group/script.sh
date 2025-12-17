@@ -39,4 +39,4 @@ if [ -d  $HOME ];then
 	echo "permission granted sucessfully"
 fi
 
-
+echo "User access setup completed successfully."
