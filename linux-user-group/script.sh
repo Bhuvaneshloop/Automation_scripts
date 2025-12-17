@@ -36,5 +36,7 @@ HOME="home/&user"
 if [ -d  $HOME ];then
 	chmod 750 "$HOME"
 	chown "$user":"$group" "$HOME"
+	echo "permission granted sucessfully"
+fi
 
 
