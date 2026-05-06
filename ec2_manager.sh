@@ -69,6 +69,7 @@ validate_instance(){
     if [ $? -ne 0 ];
     then
         echo " ERROR : $1 is not a valid id "
+	log ERROR "ERROR : $1 is not a valid id"
         exit 1
     fi
 }
