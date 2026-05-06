@@ -35,6 +35,11 @@ count_validation(){
     fi
 }
 
+error_exit(){
+log ERROR "$1"
+exit 1
+}
+
 if [[ "$ACTION" == "create" ]];
 then
     COUNT=$1
@@ -43,6 +48,7 @@ else
     INSTANCE_ID=("$@")
 fi
 
+trap 'error_exit "Command failed at line $LINENO: $BASH_COMMAND"' ERR
 log() {
    # echo "$(date) : $1" | tee -a "$LOG_FILE"
    local LEVEL=$1
@@ -54,7 +60,6 @@ log() {
    if [[ "$LEVEL" == "ERROR" ]];
    then
 	   echo " $datetime [$LEVEL] $MESSAGE " | tee -a "$LOG_FILE" >&2
-	   exit 1
    elif [[ "$LEVEL" == "DEBUG" && "$LOG_LEVEL" != "DEBUG" ]];
    then
 	   return
@@ -65,11 +70,10 @@ log() {
 
 validate_instance(){
     aws ec2 describe-instances --instance-ids "$1"  >>/dev/null 2>&1
-
-    if [ $? -ne 0 ];
+ if [ $? -ne 0 ];
     then
         echo " ERROR : $1 is not a valid id "
-	log ERROR "ERROR : $1 is not a valid id"
+        error_exit "ERROR : $1 is not a valid id"  
         exit 1
     fi
 }
@@ -136,7 +140,7 @@ case $ACTION in
                     if [ -z "$ALL" ];
                     then
                         echo "no instances in stoped state"
-			log ERROR "no instances in stoped state"
+			error_exit "no instances in stoped state"
                         exit 1
                     fi
 
@@ -171,7 +175,7 @@ case $ACTION in
 
                         *)
                             echo "invalid section"
-			    log ERROR "invalid section"
+			    error_exit "invalid section"
                             exit 1
                             ;;
                     esac
