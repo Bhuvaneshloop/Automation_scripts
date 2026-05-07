@@ -1,0 +1,564 @@
+Sat May  2 16:56:01 IST 2026 : LISTING INSTANCES
+Sat May  2 16:56:04 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  running  |
+|  i-03ff14d5f45dabcdc |  running  |
++----------------------+-----------+
+Sat May  2 16:56:52 IST 2026 : Started Stoping all running instances
+Sat May  2 16:56:54 IST 2026 : stoped instances i-07b57a12c3d2af1fa	i-03ff14d5f45dabcdc
+Sat May  2 16:57:15 IST 2026 : LISTING INSTANCES
+Sat May  2 16:57:18 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  running  |
+|  i-03ff14d5f45dabcdc |  running  |
++----------------------+-----------+
+Sat May  2 16:58:42 IST 2026 : LISTING INSTANCES
+Sat May  2 16:58:45 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  running  |
+|  i-03ff14d5f45dabcdc |  running  |
++----------------------+-----------+
+Sat May  2 16:58:47 IST 2026 : Started Stoping all running instances
+Sat May  2 16:58:51 IST 2026 : stoped instances i-07b57a12c3d2af1fa	i-03ff14d5f45dabcdc
+Sat May  2 16:59:57 IST 2026 : LISTING INSTANCES
+Sat May  2 17:00:00 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  running  |
+|  i-03ff14d5f45dabcdc |  running  |
++----------------------+-----------+
+Sat May  2 17:01:02 IST 2026 : Started Stoping all running instances
+Sat May  2 17:01:08 IST 2026 : stoped instances i-07b57a12c3d2af1fa	i-03ff14d5f45dabcdc
+Sat May  2 17:01:11 IST 2026 : LISTING INSTANCES
+Sat May  2 17:01:13 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  running  |
+|  i-03ff14d5f45dabcdc |  running  |
++----------------------+-----------+
+Sat May  2 17:01:58 IST 2026 : Started Stoping all running instances
+Sat May  2 17:02:11 IST 2026 : stoped instances i-07b57a12c3d2af1fa	i-03ff14d5f45dabcdc
+Sat May  2 17:02:31 IST 2026 : LISTING INSTANCES
+Sat May  2 17:02:33 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
++----------------------+-----------+
+Sat May  2 17:02:42 IST 2026 : Started Stoping all running instances
+Sat May  2 17:02:46 IST 2026 : stoped instances 
+Sat May  2 17:05:51 IST 2026 : Creating ec2 instance
+Sat May  2 17:05:55 IST 2026 : Created instance: i-0c7bc8f26935d7687	i-029cd0485ffdec4f8
+Sat May  2 17:06:00 IST 2026 : LISTING INSTANCES
+Sat May  2 17:06:02 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
+|  i-0c7bc8f26935d7687 |  running  |
+|  i-029cd0485ffdec4f8 |  running  |
++----------------------+-----------+
+Sat May  2 17:06:16 IST 2026 : Started Stoping all running instances
+Sat May  2 17:06:20 IST 2026 : stoped instances i-0c7bc8f26935d7687	i-029cd0485ffdec4f8
+Sat May  2 17:06:39 IST 2026 : LISTING INSTANCES
+Sat May  2 17:06:40 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
+|  i-0c7bc8f26935d7687 |  stopped  |
+|  i-029cd0485ffdec4f8 |  stopped  |
++----------------------+-----------+
+Sat May  2 17:07:17 IST 2026 : LISTING INSTANCES
+Sat May  2 17:07:20 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
+|  i-0c7bc8f26935d7687 |  stopped  |
+|  i-029cd0485ffdec4f8 |  stopped  |
++----------------------+-----------+
+Sat May  2 17:07:27 IST 2026 : Creating ec2 instance
+Sat May  2 17:07:30 IST 2026 : Created instance: i-06a4461785d41bda0
+Sat May  2 17:07:32 IST 2026 : LISTING INSTANCES
+Sat May  2 17:07:34 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
+|  i-06a4461785d41bda0 |  running  |
+|  i-0c7bc8f26935d7687 |  stopped  |
+|  i-029cd0485ffdec4f8 |  stopped  |
++----------------------+-----------+
+Sat May  2 17:07:52 IST 2026 : Started Stoping all running instances
+Sat May  2 17:07:55 IST 2026 : stoped instances i-06a4461785d41bda0
+Sat May  2 17:09:07 IST 2026 : Terminating the instance 
+Sat May  2 17:09:12 IST 2026 : TERMINATED 
+Sat May  2 17:09:33 IST 2026 : LISTING INSTANCES
+Sat May  2 17:09:35 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
+|  i-06a4461785d41bda0 |  stopped  |
+|  i-0c7bc8f26935d7687 |  stopped  |
+|  i-029cd0485ffdec4f8 |  stopped  |
++----------------------+-----------+
+Sat May  2 17:14:01 IST 2026 : LISTING INSTANCES
+Sat May  2 17:14:04 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0508a782da171e4e0 |  stopped  |
+|  i-01cb7a4be7326a70a |  stopped  |
+|  i-0eaeab4a595abec0f |  stopped  |
+|  i-0fba350be25e3884c |  stopped  |
+|  i-0c00682243c7c63d8 |  stopped  |
+|  i-0fd9474700c1213d8 |  stopped  |
+|  i-0b43749e200d55a88 |  stopped  |
+|  i-059ce7e6b8dc257aa |  stopped  |
+|  i-07b57a12c3d2af1fa |  stopped  |
+|  i-03ff14d5f45dabcdc |  stopped  |
+|  i-06a4461785d41bda0 |  stopped  |
+|  i-0c7bc8f26935d7687 |  stopped  |
+|  i-029cd0485ffdec4f8 |  stopped  |
++----------------------+-----------+
+Sat May  2 17:14:15 IST 2026 : Terminating the instance i-0508a782da171e4e0
+Sat May  2 17:14:19 IST 2026 : TERMINATED i-0508a782da171e4e0
+Sat May  2 17:14:22 IST 2026 : LISTING INSTANCES
+Sat May  2 17:14:24 IST 2026 : ---------------------------------------
+|          DescribeInstances          |
++----------------------+--------------+
+|          ID          |    STATE     |
++----------------------+--------------+
+|  i-0508a782da171e4e0 |  terminated  |
+|  i-01cb7a4be7326a70a |  stopped     |
+|  i-0eaeab4a595abec0f |  stopped     |
+|  i-0fba350be25e3884c |  stopped     |
+|  i-0c00682243c7c63d8 |  stopped     |
+|  i-0fd9474700c1213d8 |  stopped     |
+|  i-0b43749e200d55a88 |  stopped     |
+|  i-059ce7e6b8dc257aa |  stopped     |
+|  i-07b57a12c3d2af1fa |  stopped     |
+|  i-03ff14d5f45dabcdc |  stopped     |
+|  i-06a4461785d41bda0 |  stopped     |
+|  i-0c7bc8f26935d7687 |  stopped     |
+|  i-029cd0485ffdec4f8 |  stopped     |
++----------------------+--------------+
+Sat May  2 17:14:36 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:14:39 IST 2026 : Terminating the instances 
+Sat May  2 17:15:42 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:15:46 IST 2026 : Terminating the instances 
+Sat May  2 17:17:19 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:17:23 IST 2026 : Terminating the instances 
+Sat May  2 17:20:11 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:20:15 IST 2026 : Terminating the instances 
+Sat May  2 17:24:10 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:24:14 IST 2026 : Terminating the instances 
+Sat May  2 17:28:47 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:33:15 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:33:20 IST 2026 : Terminating the instances i-01cb7a4be7326a70a	i-0eaeab4a595abec0f	i-0fba350be25e3884c	i-0c00682243c7c63d8	i-0fd9474700c1213d8	i-0b43749e200d55a88	i-059ce7e6b8dc257aa	i-07b57a12c3d2af1fa	i-03ff14d5f45dabcdc	i-06a4461785d41bda0	i-0c7bc8f26935d7687	i-029cd0485ffdec4f8
+Sat May  2 17:33:36 IST 2026 : LISTING INSTANCES
+Sat May  2 17:33:38 IST 2026 : ---------------------------------------
+|          DescribeInstances          |
++----------------------+--------------+
+|          ID          |    STATE     |
++----------------------+--------------+
+|  i-0508a782da171e4e0 |  terminated  |
+|  i-01cb7a4be7326a70a |  stopped     |
+|  i-0eaeab4a595abec0f |  stopped     |
+|  i-0fba350be25e3884c |  stopped     |
+|  i-0c00682243c7c63d8 |  stopped     |
+|  i-0fd9474700c1213d8 |  stopped     |
+|  i-0b43749e200d55a88 |  stopped     |
+|  i-059ce7e6b8dc257aa |  stopped     |
+|  i-07b57a12c3d2af1fa |  stopped     |
+|  i-03ff14d5f45dabcdc |  stopped     |
+|  i-06a4461785d41bda0 |  stopped     |
+|  i-0c7bc8f26935d7687 |  stopped     |
+|  i-029cd0485ffdec4f8 |  stopped     |
++----------------------+--------------+
+Sat May  2 17:39:54 IST 2026 : Sarted terminating the instances which are stoped
+Sat May  2 17:40:01 IST 2026 : Terminating the instances i-01cb7a4be7326a70a	i-0eaeab4a595abec0f	i-0fba350be25e3884c	i-0c00682243c7c63d8	i-0fd9474700c1213d8	i-0b43749e200d55a88	i-059ce7e6b8dc257aa	i-07b57a12c3d2af1fa	i-03ff14d5f45dabcdc	i-06a4461785d41bda0	i-0c7bc8f26935d7687	i-029cd0485ffdec4f8
+Sat May  2 17:40:07 IST 2026 : LISTING INSTANCES
+Sat May  2 17:40:09 IST 2026 : ---------------------------------------
+|          DescribeInstances          |
++----------------------+--------------+
+|          ID          |    STATE     |
++----------------------+--------------+
+|  i-0508a782da171e4e0 |  terminated  |
+|  i-01cb7a4be7326a70a |  terminated  |
+|  i-0eaeab4a595abec0f |  terminated  |
+|  i-0fba350be25e3884c |  terminated  |
+|  i-0c00682243c7c63d8 |  terminated  |
+|  i-0fd9474700c1213d8 |  terminated  |
+|  i-0b43749e200d55a88 |  terminated  |
+|  i-059ce7e6b8dc257aa |  terminated  |
+|  i-07b57a12c3d2af1fa |  terminated  |
+|  i-03ff14d5f45dabcdc |  terminated  |
+|  i-06a4461785d41bda0 |  terminated  |
+|  i-0c7bc8f26935d7687 |  terminated  |
+|  i-029cd0485ffdec4f8 |  terminated  |
++----------------------+--------------+
+Sat May  2 17:57:53 IST 2026 : Creating ec2 instance
+Sat May  2 17:57:55 IST 2026 : Created instance: 
+Sat May  2 17:59:05 IST 2026 : Creating ec2 instance
+Sat May  2 17:59:06 IST 2026 : Created instance: 
+Mon May  4 13:05:12 IST 2026 : LISTING INSTANCES
+Mon May  4 13:05:14 IST 2026 : 
+Mon May  4 13:06:15 IST 2026 : LISTING INSTANCES
+Mon May  4 13:06:17 IST 2026 : 
+Mon May  4 13:06:23 IST 2026 : Creating ec2 instance
+Mon May  4 13:06:26 IST 2026 : Created instance: i-0d18fb459b406ebb0
+Mon May  4 13:06:28 IST 2026 : LISTING INSTANCES
+Mon May  4 13:06:29 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  pending  |
++----------------------+-----------+
+Mon May  4 13:06:34 IST 2026 : LISTING INSTANCES
+Mon May  4 13:06:35 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  running  |
++----------------------+-----------+
+Mon May  4 13:33:25 IST 2026 : LISTING INSTANCES
+Mon May  4 13:33:27 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  running  |
++----------------------+-----------+
+Mon May  4 13:33:54 IST 2026 : LISTING INSTANCES
+Mon May  4 13:33:55 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  running  |
++----------------------+-----------+
+Mon May  4 13:35:46 IST 2026 : LISTING INSTANCES
+Mon May  4 13:35:48 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  running  |
++----------------------+-----------+
+Mon May  4 17:04:36 IST 2026 : LISTING INSTANCES
+Mon May  4 17:04:38 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  running  |
++----------------------+-----------+
+Mon May  4 17:04:43 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:05:35 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:06:31 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:06:45 IST 2026 : Stoping the instance
+Mon May  4 17:06:48 IST 2026 : i-0d18fb459b406ebb0 Stoped
+Mon May  4 17:07:54 IST 2026 : LISTING INSTANCES
+Mon May  4 17:07:56 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-0d18fb459b406ebb0 |  stopped  |
++----------------------+-----------+
+Mon May  4 17:08:03 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:08:06 IST 2026 : Terminating the instances i-0d18fb459b406ebb0
+Mon May  4 17:08:07 IST 2026 : LISTING INSTANCES
+Mon May  4 17:08:09 IST 2026 : ------------------------------------------
+|            DescribeInstances           |
++----------------------+-----------------+
+|          ID          |      STATE      |
++----------------------+-----------------+
+|  i-0d18fb459b406ebb0 |  shutting-down  |
++----------------------+-----------------+
+Mon May  4 17:08:11 IST 2026 : LISTING INSTANCES
+Mon May  4 17:08:12 IST 2026 : ---------------------------------------
+|          DescribeInstances          |
++----------------------+--------------+
+|          ID          |    STATE     |
++----------------------+--------------+
+|  i-0d18fb459b406ebb0 |  terminated  |
++----------------------+--------------+
+Mon May  4 17:16:49 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:23:21 IST 2026 : Creating ec2 instance
+Mon May  4 17:23:23 IST 2026 : Created instance: i-069fd8f96dbeac738
+Mon May  4 17:23:30 IST 2026 : LISTING INSTANCES
+Mon May  4 17:23:31 IST 2026 : ---------------------------------------
+|          DescribeInstances          |
++----------------------+--------------+
+|          ID          |    STATE     |
++----------------------+--------------+
+|  i-0d18fb459b406ebb0 |  terminated  |
+|  i-069fd8f96dbeac738 |  running     |
++----------------------+--------------+
+Mon May  4 17:32:31 IST 2026 : LISTING INSTANCES
+Mon May  4 17:32:33 IST 2026 : ---------------------------------------
+|          DescribeInstances          |
++----------------------+--------------+
+|          ID          |    STATE     |
++----------------------+--------------+
+|  i-0d18fb459b406ebb0 |  terminated  |
+|  i-069fd8f96dbeac738 |  running     |
++----------------------+--------------+
+Mon May  4 17:32:44 IST 2026 : Stoping the instance
+Mon May  4 17:32:47 IST 2026 : i-069fd8f96dbeac738 Stoped
+Mon May  4 17:32:58 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:33:03 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:33:06 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:33:09 IST 2026 : Sarted terminating the instances which are stoped
+Mon May  4 17:33:12 IST 2026 : Terminating the instances i-069fd8f96dbeac738
+Mon May  4 17:33:16 IST 2026 : LISTING INSTANCES
+Mon May  4 17:33:17 IST 2026 : ------------------------------------------
+|            DescribeInstances           |
++----------------------+-----------------+
+|          ID          |      STATE      |
++----------------------+-----------------+
+|  i-0d18fb459b406ebb0 |  terminated     |
+|  i-069fd8f96dbeac738 |  shutting-down  |
++----------------------+-----------------+
+Tue May  5 11:51:58 IST 2026 : LISTING INSTANCES
+Tue May  5 11:52:00 IST 2026 : 
+Tue May  5 11:52:07 IST 2026 : Creating ec2 instance
+Tue May  5 11:52:09 IST 2026 : Created instance: i-05463d7f8c967c446
+Tue May  5 11:52:13 IST 2026 : LISTING INSTANCES
+Tue May  5 11:52:14 IST 2026 : ------------------------------------
+|         DescribeInstances        |
++----------------------+-----------+
+|          ID          |   STATE   |
++----------------------+-----------+
+|  i-05463d7f8c967c446 |  running  |
++----------------------+-----------+
+  [ERROR] invalid section 
+  [INFO] LISTING INSTANCES 
+ 26-05-05 13:04:52 [INFO] LISTING INSTANCES 
+ 26-05-05 13:04:57 [INFO] LISTING INSTANCES 
+ 26-05-05 13:05:27 [INFO] Creating ec2 instance 
+ 26-05-05 13:05:30 [INFO] Created instance: i-0b340e1072ef18d62 
+ 26-05-05 13:05:33 [INFO] LISTING INSTANCES 
+ 26-05-05 13:05:38 [INFO] LISTING INSTANCES 
+ 26-05-05 13:05:40 [INFO] LISTING INSTANCES 
+ 26-05-05 13:07:04 [INFO] LISTING INSTANCES 
+ 26-05-05 13:08:10 [INFO] LISTING INSTANCES 
+ 26-05-05 13:08:21 [INFO] Creating ec2 instance 
+ 26-05-05 13:08:23 [INFO] Created instance: i-0ea54c9b697ab9069 
+ 26-05-05 13:09:03 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:12 [INFO] Started Stoping all running instances 
+ 26-05-05 13:09:15 [INFO] stoped instances i-05463d7f8c967c446	i-0b340e1072ef18d62	i-0ea54c9b697ab9069 
+ 26-05-05 13:09:19 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:22 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:24 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:26 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:28 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:29 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:31 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:33 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:35 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:44 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 13:09:46 [INFO] Terminating the instances i-05463d7f8c967c446	i-0b340e1072ef18d62	i-0ea54c9b697ab9069 
+ 26-05-05 13:09:50 [INFO] LISTING INSTANCES 
+ 26-05-05 13:09:56 [INFO] LISTING INSTANCES 
+ 26-05-05 13:12:24 [INFO] Creating ec2 instance 
+ 26-05-05 13:12:27 [INFO] Created instance: i-062a483bbe3755c71 
+ 26-05-05 13:13:27 [INFO] LISTING INSTANCES 
+ 26-05-05 13:13:35 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 13:13:36 [ERROR] no instances in stoped state 
+ 26-05-05 13:29:36 [INFO] LISTING INSTANCES 
+ 26-05-05 13:29:49 [INFO] Stoping the instance 
+ 26-05-05 13:29:52 [INFO] i-062a483bbe3755c71 Stoped 
+ 26-05-05 13:29:54 [INFO] LISTING INSTANCES 
+ 26-05-05 13:30:03 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 13:30:04 [ERROR] no instances in stoped state 
+ 26-05-05 13:30:07 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 13:30:08 [ERROR] no instances in stoped state 
+ 26-05-05 13:30:11 [INFO] LISTING INSTANCES 
+ 26-05-05 13:30:17 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 13:30:19 [INFO] Terminating the instances i-062a483bbe3755c71 
+ 26-05-05 14:23:13 [INFO] LISTING INSTANCES 
+ 26-05-05 14:23:22 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 14:23:23 [ERROR] no instances in stoped state 
+ 26-05-05 17:46:42 [INFO] LISTING INSTANCES 
+ 26-05-05 17:46:51 [INFO] Creating ec2 instance 
+ 26-05-05 17:46:53 [INFO] Created instance: i-0d7b8183762515314 
+ 26-05-05 17:46:54 [INFO] LISTING INSTANCES 
+ 26-05-05 17:46:57 [INFO] LISTING INSTANCES 
+ 26-05-05 22:02:31 [INFO] LISTING INSTANCES 
+ 26-05-05 22:54:34 [INFO] Started Stoping all running instances 
+ 26-05-05 22:54:40 [INFO] stoped instances i-0d7b8183762515314 
+ 26-05-05 22:54:44 [INFO] LISTING INSTANCES 
+ 26-05-05 22:54:49 [INFO] LISTING INSTANCES 
+ 26-05-05 22:54:51 [INFO] LISTING INSTANCES 
+ 26-05-05 22:54:57 [INFO] LISTING INSTANCES 
+ 26-05-05 22:55:05 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-05 22:55:08 [INFO] Terminating the instances i-0d7b8183762515314 
+ 26-05-05 22:55:10 [INFO] LISTING INSTANCES 
+ 26-05-06 12:15:31 [INFO] LISTING INSTANCES 
+ 26-05-06 12:18:27 [INFO] LISTING INSTANCES 
+ 26-05-06 12:20:32 [INFO] LISTING INSTANCES 
+ 26-05-06 12:22:12 [INFO] LISTING INSTANCES 
+ 26-05-06 12:22:18 [INFO] Creating ec2 instance 
+ 26-05-06 12:22:21 [INFO] Created instance: i-08788767232643609 
+ 26-05-06 12:22:23 [INFO] LISTING INSTANCES 
+ 26-05-06 12:23:15 [INFO] Stoping the instance 
+ 26-05-06 12:23:17 [ERROR] ERROR : i-0878876723264360 is not a valid id 
+ 26-05-06 12:25:21 [INFO] Stoping the instance 
+ 26-05-06 12:25:22 [ERROR] Command failed at line 116: aws ec2 describe-instances --instance-ids "$1" >> /dev/null 2>&1 
+ 26-05-06 12:28:30 [INFO] Stoping the instance 
+ 26-05-06 12:28:32 [ERROR] Command failed at line 116: aws ec2 describe-instances --instance-ids "$1" >> /dev/null 2>&1 
+ 26-05-06 12:41:00 [INFO] Stoping the instance 
+ 26-05-06 12:41:01 [ERROR] ERROR : i-0878876723264360 is not a valid id 
+ 26-05-06 12:41:12 [INFO] Stoping the instance 
+ 26-05-06 12:41:15 [INFO] i-08788767232643609 Stoped 
+ 26-05-06 12:41:24 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:29 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:31 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:33 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:35 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:37 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:39 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:42 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:48 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-06 12:41:51 [INFO] Terminating the instances i-08788767232643609 
+ 26-05-06 12:41:54 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:57 [INFO] LISTING INSTANCES 
+ 26-05-06 12:41:59 [INFO] LISTING INSTANCES 
+ 26-05-06 15:59:11 [INFO] Creating ec2 instance 
+ 26-05-06 15:59:14 [INFO] Created instance: i-0e27696c0b6ac7165 
+ 26-05-06 15:59:18 [INFO] LISTING INSTANCES 
+ 26-05-06 23:12:38 [INFO] LISTING INSTANCES 
+ 26-05-06 23:12:51 [INFO] Started Stoping all running instances 
+ 26-05-06 23:12:54 [INFO] stoped instances i-0e27696c0b6ac7165	i-0db074297ddda25b4 
+ 26-05-06 23:12:57 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:00 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:03 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:06 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:08 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:10 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:14 [INFO] LISTING INSTANCES 
+ 26-05-06 23:13:23 [ERROR] invalid section 
+ 26-05-06 23:13:30 [INFO] Sarted terminating the instances which are stoped 
+ 26-05-06 23:13:34 [INFO] Terminating the instances i-0e27696c0b6ac7165	i-0db074297ddda25b4 
+ 26-05-06 23:13:36 [INFO] LISTING INSTANCES 
