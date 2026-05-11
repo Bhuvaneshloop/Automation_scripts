@@ -1515,3 +1515,1078 @@
 26-05-11 12:59:32 [INFO] Instance i-03aaf966d85844c9b Started
 26-05-11 12:59:43 [INFO] Instance i-03aaf966d85844c9b is healthy
 26-05-11 12:59:47 [ERROR] Interupt by the user 
+tee: watchdog.log: Permission denied
+26-05-11 14:18:55 [INFO] Instance i-03aaf966d85844c9b is stopped
+tee: watchdog.log: Permission denied
+26-05-11 14:19:20 [INFO] Instance i-03aaf966d85844c9b Started
+tee: watchdog.log: Permission denied
+26-05-11 14:19:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:19:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:19:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:20:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:20:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 14:20:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:20:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 14:20:40 [ERROR] Interupt by the user 
+tee: watchdog.log: Permission denied
+26-05-11 14:20:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:20:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:21:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:21:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:21:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:21:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:21:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:22:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:22:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:22:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:22:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:22:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:23:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:23:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:23:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:23:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:23:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:24:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:24:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:24:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:24:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:24:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:25:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:25:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:25:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:25:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:25:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:26:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:26:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:26:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:26:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:26:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:27:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:27:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:27:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:27:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:27:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:28:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:28:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:28:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:28:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:28:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:29:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:29:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:29:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:29:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:29:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:30:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:30:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:30:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:30:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:30:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:31:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:31:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:31:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:31:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:31:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:32:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:32:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:32:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:32:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:32:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:33:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:33:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:33:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:33:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:33:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:34:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:34:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:34:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:34:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:34:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:35:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:35:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:35:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:35:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:35:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:36:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:36:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:36:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:36:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:36:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:37:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:37:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:37:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:37:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:37:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:38:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:38:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:38:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:38:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:38:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:39:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:39:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:39:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:39:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:39:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:40:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:40:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:40:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:40:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:40:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:41:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:41:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:41:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:41:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:41:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:42:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:42:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:46:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:46:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:47:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:47:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:47:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:47:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:47:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:48:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:48:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:48:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+tee: watchdog.log: Permission denied
+26-05-11 14:48:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:11:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:12:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:12:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:12:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:12:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:12:29 [INFO] Instance i-03aaf966d85844c9b is currenly stopping
+26-05-11 15:12:29 [INFO] Instance i-03aaf966d85844c9b is currenly stopping
+26-05-11 15:12:40 [INFO] Instance i-03aaf966d85844c9b is stopped
+26-05-11 15:12:40 [INFO] Instance i-03aaf966d85844c9b is stopped
+26-05-11 15:13:04 [INFO] Instance i-03aaf966d85844c9b Started
+26-05-11 15:13:04 [INFO] Instance i-03aaf966d85844c9b Started
+26-05-11 15:13:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:13:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:14:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:15:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:16:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:18:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:18:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:18:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:19:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:19:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:19:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:19:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:19:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:20:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:20:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:20:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:20:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:20:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:20:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:21:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:21:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:21:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:21:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:21:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:22:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:22:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:22:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:22:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:22:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:22:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:23:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:23:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:23:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:23:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:23:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:24:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:24:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:24:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:24:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:24:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:25:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:25:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:25:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:25:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:25:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:25:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:26:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:26:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:26:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:26:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:26:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:27:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:27:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:27:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:27:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:27:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:27:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:28:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:28:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:28:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:28:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:28:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:29:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:29:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:29:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:29:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:29:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:30:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:30:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:30:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:30:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:30:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:30:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:31:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:31:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:31:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:31:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:31:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:32:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:32:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:32:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:32:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:32:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:33:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:33:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:33:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:33:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:33:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:33:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:34:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:34:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:34:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:34:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:34:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:35:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:35:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:35:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:35:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:35:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:35:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:36:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:36:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:36:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:36:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:36:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:37:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:37:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:37:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:37:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:37:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:38:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:38:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:38:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:38:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:38:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:38:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:39:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:39:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:39:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:39:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:39:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:40:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:40:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:40:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:40:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:40:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:40:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:41:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:41:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:41:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:41:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:41:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:42:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:42:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:42:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:42:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:42:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:43:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:43:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:43:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:43:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:43:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:43:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:44:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:44:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:44:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:44:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:44:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:45:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:45:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:45:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:45:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:45:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:46:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:46:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:46:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:46:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:46:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:46:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:47:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:47:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:47:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:47:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:47:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:48:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:48:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:48:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:48:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:48:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:48:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:49:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:49:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:49:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:49:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:49:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:50:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:50:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:50:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:50:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:50:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:51:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:51:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:51:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:51:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:51:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:51:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:52:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:52:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:52:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:52:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:52:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:53:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:53:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:53:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:53:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:53:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:53:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:54:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:54:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:54:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:54:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:54:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:55:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:55:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:55:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:55:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:55:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:56:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:56:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:56:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:56:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:56:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:56:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:57:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:57:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:57:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:57:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:57:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:58:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:58:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:58:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:58:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:58:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:58:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:59:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:59:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:59:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:59:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 15:59:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:00:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:00:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:00:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:00:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:00:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:00:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:01:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:01:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:01:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:01:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:01:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:02:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:02:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:02:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:02:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:02:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:03:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:03:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:03:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:03:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:03:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:03:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:04:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:04:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:04:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:04:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:04:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:05:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:05:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:05:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:05:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:05:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:05:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:06:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:06:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:06:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:06:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:06:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:07:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:07:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:07:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:07:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:07:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:08:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:08:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:08:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:08:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:08:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:08:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:09:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:09:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:09:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:09:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:09:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:10:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:10:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:10:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:10:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:10:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:10:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:11:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:11:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:11:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:11:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:11:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:12:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:12:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:12:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:12:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:12:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:12:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:13:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:13:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:13:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:13:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:13:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:14:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:14:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:14:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:14:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:14:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:15:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:15:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:15:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:15:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:15:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:15:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:16:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:16:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:16:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:16:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:16:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:17:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:17:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:17:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:17:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:17:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:17:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:18:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:18:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:18:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:18:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:18:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:19:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:19:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:19:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:19:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:19:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:20:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:20:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:20:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:20:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:20:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:20:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:21:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:21:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:21:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:21:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:21:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:22:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:22:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:22:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:22:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:22:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:22:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:23:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:23:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:23:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:23:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:23:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:24:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:24:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:24:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:24:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:24:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:25:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:25:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:25:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:25:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:25:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:25:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:26:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:26:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:26:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:26:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:26:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:27:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:27:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:27:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:27:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:27:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:27:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:28:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:28:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:28:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:28:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:28:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:29:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:29:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:29:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:29:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:29:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:30:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:30:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:30:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:30:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:30:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:30:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:31:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:31:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:31:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:31:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:31:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:32:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:32:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:32:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:32:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:32:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:33:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:33:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:33:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:33:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:33:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:33:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:34:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:34:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:34:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:34:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:34:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:35:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:35:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:35:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:35:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:35:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:35:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:36:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:36:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:36:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:36:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:36:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:37:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:37:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:37:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:37:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:37:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:38:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:38:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:38:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:38:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:38:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:38:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:39:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:39:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:39:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:39:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:39:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:40:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:40:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:40:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:40:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:40:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:41:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:41:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:41:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:41:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:41:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:41:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:42:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:42:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:42:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:42:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:42:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:43:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:43:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:43:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:43:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:43:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:44:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:44:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:44:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:44:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:44:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:45:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:45:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:45:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:45:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:45:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:45:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:46:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:46:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:46:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:46:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:46:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:47:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:47:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:47:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:47:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:47:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:48:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:48:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:48:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:48:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:48:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:48:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:49:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:49:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:49:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:49:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:49:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:50:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:50:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:50:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:50:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:50:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:51:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:51:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:51:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:51:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:51:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:52:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:52:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:52:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:52:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:52:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:52:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:53:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:53:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:53:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:53:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:53:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:54:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:54:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:54:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:54:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:54:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:55:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:55:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:55:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:55:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:55:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:55:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:56:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:56:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:56:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:56:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:56:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:57:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:57:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:57:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:57:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:57:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:58:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:58:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:58:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:58:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:58:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:58:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:59:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:59:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:59:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:59:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 16:59:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:00:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:00:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:00:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:00:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:00:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:01:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:01:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:01:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:01:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:01:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:02:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:02:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:02:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:02:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:02:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:02:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:03:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:03:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:03:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:03:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:03:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:04:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:04:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:04:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:19:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:19:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:19:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:20:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:20:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:20:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:20:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:20:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:21:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:21:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:21:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:21:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:21:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:22:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:22:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:22:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:22:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:22:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:22:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:23:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:23:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:23:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:23:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:23:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:24:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:24:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:24:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:24:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:24:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:25:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:25:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:25:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:25:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:25:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:25:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:26:07 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:26:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:26:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:26:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:26:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:27:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:27:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:27:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:27:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:27:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:27:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:28:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:28:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:28:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:28:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:28:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:29:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:29:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:29:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:29:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:29:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:30:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:30:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:30:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:30:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:30:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:30:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:31:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:31:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:31:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:31:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:31:52 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:32:03 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:32:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:32:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:32:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:32:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:32:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:33:10 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:33:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:33:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:33:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:33:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:34:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:34:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:34:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:34:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:34:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:35:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:35:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:35:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:35:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:35:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:35:57 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:36:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:36:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:36:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:36:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:36:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:37:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:37:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:37:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:37:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:37:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:38:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:38:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:38:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:38:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:38:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:38:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:39:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:39:18 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:39:29 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:39:40 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:39:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:40:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:40:14 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:40:25 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:40:36 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:40:47 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:40:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:41:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:41:21 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:41:32 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:41:43 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:41:54 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:42:05 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:42:16 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:42:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:42:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:42:50 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:43:01 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:43:12 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:43:23 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:43:34 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:43:45 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:43:56 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:44:08 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:44:19 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:44:30 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:44:41 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:44:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:45:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:45:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:45:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:45:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:45:48 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:45:59 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:46:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:46:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:46:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:46:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:46:55 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:47:06 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:47:17 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:47:28 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:47:39 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:47:51 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:48:02 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:48:13 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:48:24 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:48:35 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:48:46 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:48:58 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:49:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:49:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:49:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:49:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:49:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:50:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:50:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:50:27 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:50:38 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:50:49 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:51:00 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:51:11 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:51:22 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:51:33 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:51:44 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:51:56 [INFO] Instance i-03aaf966d85844c9b is currenly stopping
+26-05-11 17:52:07 [INFO] Instance i-03aaf966d85844c9b is stopped
+26-05-11 17:52:31 [INFO] Instance i-03aaf966d85844c9b Started
+26-05-11 17:52:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:52:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:53:04 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:53:15 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:53:26 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:53:37 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:54:09 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:54:20 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:54:31 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:54:42 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:54:53 [INFO] Instance i-03aaf966d85844c9b is healthy
+26-05-11 17:55:05 [INFO] Instance i-03aaf966d85844c9b is healthy

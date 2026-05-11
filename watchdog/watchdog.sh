@@ -1,8 +1,8 @@
 #!/bin/bash
 #set -x
 Entries=()
-LOG_FILE="watchdog.log"
-trap 'echo "Error occoured at lineno $LINENO"' ERR
+LOG_FILE="/home/bhuvaneshp3/awstutor/watchdog/watchdog.log"
+trap 'echo "Error occoured at lineno $LINENO $BASH_COMMAND"' ERR
 trap 'log ERROR "Interupt by the user ";exit 1' SIGINT
 
 retry(){
@@ -30,12 +30,12 @@ log(){
 
     if [[  "$LEVEL" == "ERROR" ]];
     then
-        echo  "$datetime [$LEVEL] $message" | tee -a "$LOG_FILE" >&2
+        echo  "$datetime [$LEVEL] $message" | tee -a "$LOG_FILE" 
 elif [[ "$LEVEL" == "DEBUG" &&  "$LOG_LEVEL" != "DEBUG" ]];
     then
         return
     else
-        echo  "$datetime [$LEVEL] $message" | tee -a "$LOG_FILE" >&2
+        echo  "$datetime [$LEVEL] $message" | tee -a "$LOG_FILE"
     fi
 }
 

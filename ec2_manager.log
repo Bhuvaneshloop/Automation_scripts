@@ -934,3 +934,10 @@ Tue May  5 11:52:14 IST 2026 : ------------------------------------
  26-05-11 12:59:44 [INFO] LISTING INSTANCES 
  26-05-11 12:59:54 [INFO] Stoping the instance 
  26-05-11 12:59:57 [INFO] i-03aaf966d85844c9b Stoped 
+ 26-05-11 15:12:07 [ERROR] invalid section 
+ 26-05-11 15:12:12 [INFO] LISTING INSTANCES 
+ 26-05-11 15:12:23 [INFO] Stoping the instance 
+ 26-05-11 15:12:25 [INFO] i-03aaf966d85844c9b Stoped 
+ 26-05-11 17:51:41 [INFO] LISTING INSTANCES 
+ 26-05-11 17:51:49 [INFO] Stoping the instance 
+ 26-05-11 17:51:52 [INFO] i-03aaf966d85844c9b Stoped 
