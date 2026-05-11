@@ -1,7 +1,7 @@
 #!/bin/bash
 #set -e
 #set -eoux pipefail
-
+AutoRestart=false
 usage(){
     echo "1. $0  [option]"
     echo "2. List - list all instances and its statu "
@@ -13,14 +13,19 @@ usage(){
     exit 1
 }
 
-while getopts ":h" opt;
+while getopts ":ht:" opt;
 do
     case $opt in
         h)
             usage ;;
+        t)
+            AutoRestart=$OPTARG ;;
+        \?)
+            echo "invalid option -$opt"
     esac
 done
 
+shift $((OPTIND - 1))
 ACTION=$1
 shift
 LOG_FILE="ec2_manager.log"
@@ -91,7 +96,9 @@ case $ACTION in
         create)
             log  INFO "Creating ec2 instance"
             count_validation $COUNT
+            echo  "$AutoRestart"
             INSTANCE_ID=$(aws ec2 run-instances \
+      --tag-specifications "ResourceType=instance,Tags=[{Key=AutoRecover,Value=$AutoRestart}]" \
                     --image-id ami-0e12ffc2dd465f6e4 \
                     --instance-type t3.micro \
                     --count $COUNT \
